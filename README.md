@@ -1,1 +1,2 @@
 # TeachGirlfriendPython
+这是一个教程仓库，目的是交会女朋友使用python编程，最终能够达到使用python进行数据处理的成都。
